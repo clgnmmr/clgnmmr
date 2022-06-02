@@ -21,7 +21,7 @@ I graduated from Automation engineer with Java and Selenium Bootcamp organized b
 [<img  width="40" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"  align="left" />][instagram]
 [<img  width="40" src="https://unpkg.com/simple-icons@v7/icons/facebook.svg"  align="left" />][facebook]
 
-[patika]: <a target="_blank"> https://app.patika.dev/clgnmmr</a>
+[patika]: https://app.patika.dev/clgnmmr
 [linkedin]: https://www.linkedin.com/in/kadirtepecik/
 [codersclub]: https://codersclub.co/dev/clgnmmr
 [hackerrank]: https://www.hackerrank.com/kadir_tepecik191
