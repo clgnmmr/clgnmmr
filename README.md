@@ -28,6 +28,13 @@ I graduated from Automation engineer with Java and Selenium Bootcamp organized b
 [instagram]: https://www.instagram.com/clgnmmr/
 [facebook]: https://www.facebook.com/kadir.tepecik
 [stackoverflow]: https://stackoverflow.com/users/18456843/kadir-tepecik
+<br/>
+<br/>
+## 📜Certificates
+Yazılım Test otomasyonu [<img  width="40"  src="[https://unpkg.com/simple-icons@v7/icons/linkedin.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU)"  align="left" >][Yazılım]
+[Yazılım]: [https://www.linkedin.com/in/kadirtepecik/](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoX1Z70)
+
+
 
 <br/>
 <br/>
