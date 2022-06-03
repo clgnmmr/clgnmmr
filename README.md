@@ -32,12 +32,19 @@ I graduated from Automation engineer with Java and Selenium Bootcamp organized b
 <br/>
 ## 📜Certificates
 
-Yazılım Test otomasyonu  Versiyon Kontrolleri: Git ve GitHub
-
+Yazılım Test otomasyonu  
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Yazılım]
+
+Versiyon Kontrolleri: Git ve GitHub
+
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][git]
 
+HTML5 ile Web Geliştirme
+
+[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][html]
+
 [Yazılım]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoX1Z70
+[html]:[https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoX1Z70](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=JoNfrXBG2J#)
 
 [git]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=zXzta0z6ON#
 <br/>
