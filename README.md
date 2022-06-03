@@ -33,20 +33,30 @@ I graduated from Automation engineer with Java and Selenium Bootcamp organized b
 ## 📜Certificates
 
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Yazılım]
+
 Yazılım Test otomasyonu  
+
+[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][git]
 
 
 Versiyon Kontrolleri: Git ve GitHub
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][git]
 
-HTML5 ile Web Geliştirme
+
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][html]
 
-CSS Temelleri
+
+HTML5 ile Web Geliştirme
+
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][css]
 
-API ve API Testi
+
+CSS Temelleri
+
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][api]
+
+
+API ve API Testi
+
 
 
 [Yazılım]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoX1Z70
