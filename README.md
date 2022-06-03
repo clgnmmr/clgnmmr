@@ -31,7 +31,9 @@ I graduated from Automation engineer with Java and Selenium Bootcamp organized b
 <br/>
 <br/>
 ## 📜Certificates
-Yazılım Test otomasyonu [<img  width="40"  src="[https://unpkg.com/simple-icons@v7/icons/linkedin.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU)"  align="left" >][Yazılım]
+Yazılım Test otomasyonu 
+
+[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Yazılım]
 [Yazılım]: [https://www.linkedin.com/in/kadirtepecik/](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoX1Z70)
 
 
