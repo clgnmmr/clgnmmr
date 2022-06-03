@@ -1,7 +1,7 @@
 
 ## 💫About Me :
 
-### Hi there 👋, my name is **Kadir** :blush:
+### Hi there 👋, my name is **Kadir** :blush:😋
 
 - 👀 I am interested in _Automation Engineer_
 - 🔭 I am currently working on Automation Engineer projects to improve my skills.
@@ -10,6 +10,7 @@
 - 📫 How to reach me: http://kadirtepecik.epizy.com/index.html
 
 I graduated from Automation engineer with Java and Selenium Bootcamp organized by TechproEducation. I am also taking courses about Automation engineer with Selenium,Cypress,Apı,SQL to become proficient in both Java and Kotlin as an Automation engineer. I am eager to improve my skills in the field of automation and gain experience in the professional field as Automation engineer.
+<hr/>
 
 ## 🌐Socials
 
@@ -30,7 +31,10 @@ I graduated from Automation engineer with Java and Selenium Bootcamp organized b
 [stackoverflow]: https://stackoverflow.com/users/18456843/kadir-tepecik
 <br/>
 <br/>
+<hr/> 
+
 ## 📜Certificates
+
 
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Yazılım]
 Yazılım Test otomasyonu
@@ -64,6 +68,7 @@ API ve API Testi
 [api]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=nKqho6qXyb
 <br/>
 <br/>
+<hr/>
 
 ## 💻Tech Stack
 
@@ -82,6 +87,7 @@ API ve API Testi
 <a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3m3cQd-M2Gq5QXSik9qJSHGDBW3MvBoWFyA&usqp=CAU" alt="sql" width="50" height="50"/> </a>
 
 </p>
+<hr/>
 
 ## 💻Tools
 
@@ -93,13 +99,15 @@ API ve API Testi
 <a href="https://www.soapui.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SmartBear/soapui/next/SoapUI-oss-logo.png" alt="SoapUI" width="120" height="40"/> </a>
 
 </p>
+<hr/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=clgnmmr&show_icons=true&count_private=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=clgnmmr&layout=compact)
 
 ![Profile views](https://gpvc.arturio.dev/clgnmmr)
-
+<hr/>
 ### ✍️Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<hr/>
