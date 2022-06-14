@@ -99,6 +99,9 @@ API ve API Testi
 <a href="https://www.soapui.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SmartBear/soapui/next/SoapUI-oss-logo.png" alt="SoapUI" width="120" height="40"/> </a>
 <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.semihduran.com/wp-content/uploads/2020/12/postman.jpg" alt="Postman" width="120" height="40"/> </a>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySql" width="120" height="40"/> </a>
+<a href="https://www.jira.com" target="_blank" rel="noreferrer"> <img src="https://yardimmasasi.atilim.edu.tr/images/atlassian-jira-logo-large.png" alt="Jira" width="120" height="40"/> </a>
+
+
 
 
 
