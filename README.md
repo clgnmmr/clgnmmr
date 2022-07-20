@@ -58,6 +58,11 @@ CSS Temelleri
 
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][api]
 API ve API Testi
+<br/>
+<br/>
+
+[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][sql]
+Uygulamlarla SQL Öğreniyorum
 
 
 
@@ -66,6 +71,7 @@ API ve API Testi
 [git]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=zXzta0z6ON#
 [css]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=7rptZmL660#
 [api]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=nKqho6qXyb
+[sql]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=lK1h7JkNdD
 <br/>
 <br/>
 <hr/>
