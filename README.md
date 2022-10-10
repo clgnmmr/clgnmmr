@@ -1,15 +1,15 @@
 
 ## 💫About Me :
 
-### Hi there 👋, my name is **Kadir** :blush:😋
+### Hello 👋, my name is **Kadir** :blush:😋
 
-- 👀 I am interested in _Automation Engineer_
+- 👀 I'm improving myself about _Automation Engineer_
 - 🔭 I am currently working on Automation Engineer projects to improve my skills.
-- 🌱 I am currently learning Selenium
+- 🌱 I've learned Selenium now and I'm improving myself in other tools
 - 👯 I want to collaborate on automation test project
 - 📫 How to reach me: http://kadirtepecik.epizy.com/index.html
 
-I graduated from Automation engineer with Java and Selenium Bootcamp organized by TechproEducation. I am also taking courses about Automation engineer with Selenium,Cypress,Apı,SQL to become proficient in both Java and Kotlin as an Automation engineer. I am eager to improve my skills in the field of automation and gain experience in the professional field as Automation engineer.
+  I became an automation engineer. In addition, as an Automation engineer, I develop projects with both Java and javascript as an Automation engineer with Selenium,Appium, Cypress, API, SQL. I am eager to develop my skills in the field of automation and gain experience in the professional field as an automation engineer. I can improve myself more by following you.
 
 
 ## 🌐Socials
