@@ -9,7 +9,7 @@
 - 👯 I want to collaborate on automation test project
 - 📫 How to reach me: http://kadirtepecik.epizy.com/index.html
 
-  I became an automation engineer. In addition, as an Automation engineer, I develop projects with both Java and javascript as an Automation engineer with Selenium,Appium, Cypress, API, SQL. I am eager to develop my skills in the field of automation and gain experience in the professional field as an automation engineer. I can improve myself more by following you.
+  
 
 
 ## 🌐Socials
