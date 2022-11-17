@@ -1,7 +1,7 @@
 
 ## 💫About Me :
 
-### Hello 👋, my name is **Kadir** :blush:😋
+### Hello 👋, my name is **Kadir** 
 
 - 👀 I'm improving myself about _Automation Engineer_
 - 🔭 I am currently working on Automation Engineer projects to improve my skills.
