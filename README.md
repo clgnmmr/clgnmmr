@@ -71,54 +71,53 @@
 
 ## 📜Certificates
 
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Java]
-JAVA İle Programlamaya Giriş
-<br/>
-<br/>
-                                                                                                                                          
+                                                                                                                                     
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Yazılım]
 Yazılım Test otomasyonu
 <br/>
 <br/>
-
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][git]
 Versiyon Kontrolleri: Git ve GitHub
 <br/>
 <br/>
-
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][html]
 HTML5 ile Web Geliştirme
 <br/>
 <br/>
-
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][css]
 CSS Temelleri
 <br/>
 <br/>
-
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][api]
 API ve API Testi
 <br/>
 <br/>
-
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][sql]
 Uygulamlarla SQL Öğreniyorum
 <br/>
 <br/>
-
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Jenkins]
 DevOps Çözümleri (Jenkins)
+<br/>
+<br/>
+[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Java]
+JAVA İle Programlamaya Giriş
+<br/>
+<br/>
+     
+                                                                                                                                          
+                                                                                                                                          
+                                                                                                                                  
+                                                                                                                                          
 
-
-
-
-[Yazılım]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoX1Z70                                                                          [Java]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=yjahJOXv92
+[Yazılım]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoX1Z70                                                                         
 [html]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=JoNfrXBG2J#
 [git]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=zXzta0z6ON#
 [css]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=7rptZmL660#
 [api]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=nKqho6qXyb
 [sql]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=lK1h7JkNdD
 [Jenkins]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=vpWc8D2KgV
+[Java]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=yjahJOXv92
 <br/>
 <br/>
 
