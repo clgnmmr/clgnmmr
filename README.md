@@ -71,7 +71,7 @@
 
 ## 📜Certificates
 
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][java]
+[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Java]
 JAVA İle Programlamaya Giriş
 <br/>
 <br/>
@@ -112,7 +112,7 @@ DevOps Çözümleri (Jenkins)
 
 
 
-[Yazılım]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoX1Z70                                                                          [java]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=yjahJOXv92
+[Yazılım]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoX1Z70                                                                          [Java]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=yjahJOXv92
 [html]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=JoNfrXBG2J#
 [git]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=zXzta0z6ON#
 [css]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=7rptZmL660#
