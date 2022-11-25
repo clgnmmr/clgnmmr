@@ -73,35 +73,43 @@
 
                                                                                                                                      
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Yazılım]
-Yazılım Test otomasyonu
+Software Test Automation
 <br/>
 <br/>
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][git]
-Versiyon Kontrolleri: Git ve GitHub
+Versiyon Controls: Git and Github
 <br/>
 <br/>
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][html]
-HTML5 ile Web Geliştirme
+WEB Development with HTML5
 <br/>
 <br/>
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][css]
-CSS Temelleri
+CSS Basics
 <br/>
 <br/>
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][api]
-API ve API Testi
+API and API Testing
 <br/>
 <br/>
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][sql]
-Uygulamlarla SQL Öğreniyorum
+Learning SQL by Applications
 <br/>
 <br/>
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Jenkins]
-DevOps Çözümleri (Jenkins)
+DevOps Solutions (Jenkins)
 <br/>
 <br/>
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Java]
-JAVA İle Programlamaya Giriş
+Introduction to Programming with Java
+<br/>
+<br/>
+[<img  width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][ileriJava]
+Advanced Java
+<br/>
+<br/>
+[<img  width="40"  src="https://pbs.twimg.com/profile_images/1133185636096040960/c9o6UlSh_400x400.png"  align="left" >][Selenium]
+Selenium 4 in Java
 <br/>
 <br/>
      
@@ -110,14 +118,16 @@ JAVA İle Programlamaya Giriş
                                                                                                                                   
                                                                                                                                           
 
-[Yazılım]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoX1Z70                                                                         
+[Yazılım]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoX1Z70 
+[Selenium]:https://testautomationu.applitools.com/certificate/?id=74fc12f0
 [html]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=JoNfrXBG2J#
 [git]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=zXzta0z6ON#
 [css]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=7rptZmL660#
 [api]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=nKqho6qXyb
 [sql]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=lK1h7JkNdD
 [Jenkins]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=vpWc8D2KgV
-[Java]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=yjahJOXv92
+[Java]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=yjahJOXv92   
+[ileriJava]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCokL8Vn
 <br/>
 <br/>
 
