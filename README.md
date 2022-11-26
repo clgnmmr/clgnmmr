@@ -74,48 +74,38 @@
                                                                                                                                      
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Yazılım]
 Software Test Automation
-<br/>
-                                                                                                                                          
+<br/><br/>                                                                                                                                     
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][git]
 Versiyon Controls: Git and Github
-<br/>
-                                                                                                                                          
+<br/><br/>                                                                                                                                     
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][html]
 WEB Development with HTML5
-<br/>
-                                                                                                                                          
+<br/><br/>                                                                                                                                      
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][css]
 CSS Basics
-<br/>
-                                                                                                                                          
+<br/><br/>                                                                                                                                       
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][api]
 API and API Testing
-<br/>
-                                                                                                                                          
+<br/><br/>                                                                                                                                     
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][sql]
 Learning SQL by Applications
-<br/>
-                                                                                                                                          
+<br/><br/>                                                                                                                                    
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Jenkins]
 DevOps Solutions (Jenkins)
-<br/>
-                                                                                                                                          
+<br/><br/>                                                                                                                                    
 [<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Java]
 Introduction to Programming with Java
-<br/>
-                                                                                                                                          
+<br/><br/>                                                                                                                                      
 [<img  width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][ileriJava]
 Advanced Java
-<br/>
-                                                                                                                                         
+<br/><br/>                                                                                                                                   
 [<img  width="40"  src="https://pbs.twimg.com/profile_images/1133185636096040960/c9o6UlSh_400x400.png"  align="left" >][Selenium]
 Selenium 4 in Java
-<br/>
-                                                                                                                    
+<br/><br/>                                                                                                               
 [<img  width="40"  src="https://pbs.twimg.com/profile_images/1133185636096040960/c9o6UlSh_400x400.png"  align="left" >][SeleniumJava]
 Selenium Webdriver with Java                                                                                                               
-<br/>
-                                                                                                                      
+<br/><br/>
+                                                                                                                    
 
 [Yazılım]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoX1Z70 
 [Selenium]:https://testautomationu.applitools.com/certificate/?id=74fc12f0
