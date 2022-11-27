@@ -105,11 +105,15 @@ Selenium 4 in Java
 [<img  width="40"  src="https://pbs.twimg.com/profile_images/1133185636096040960/c9o6UlSh_400x400.png"  align="left" >][SeleniumJava]
 Selenium Webdriver with Java                                                                                                               
 <br/><br/>
+ [<img  width="40"  src="https://pbs.twimg.com/profile_images/1133185636096040960/c9o6UlSh_400x400.png"  align="left" >][TAUJava]
+Java Programming                                                                                                               
+<br/><br/>
                                                                                                                     
 
 [Yazılım]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoX1Z70 
 [Selenium]:https://testautomationu.applitools.com/certificate/?id=74fc12f0
 [SeleniumJava]:https://testautomationu.applitools.com/certificate/?id=0a4c2a71
+[TAUJava]:https://testautomationu.applitools.com/certificate/?id=fb6fd92a
 [html]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=JoNfrXBG2J#
 [git]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=zXzta0z6ON#
 [css]:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=7rptZmL660#
