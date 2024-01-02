@@ -42,7 +42,7 @@
 <a href="https://www.html5.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="35" height="35"/> </a>
 <a href="https://www.css3.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="35" height="35"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
-<a href="https://www.selenium.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/4b95df4d6ca7a01afc25d27159804dc5a7d0df41d8131aaf50c9f84847dfda21/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" alt="Selenium" width="35" height="35"/> </a>
+<a href="https://www.selenium.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="35" height="35"/> </a>
 <a href="https://www.appium.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/698/0*Ar7dArTvLIGrRs2n.png" alt="Selenium" width="60" height="30"/> </a>
 <a href="https://www.cypress.com" target="_blank" rel="noreferrer"> <img src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png" alt="Cypress" width="60" height="30"/> </a>
 <a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpswKqlwex1UtYOHT6cWIVsJ3dQfEg__lFQ&usqp=CAU" alt="api" width="35" height="35"/> </a>
@@ -72,31 +72,31 @@
 ## 📜Certificates
 
                                                                                                                                      
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Yazılım]
+[<img  width="40"  src="https://www.alastyr.com/blog/wp-content/uploads/2020/10/BTK-akademi-1024x576-1.png"  align="left" >][Yazılım]
 Software Test Automation
 <br/><br/>                                                                                                                                     
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][git]
+[<img  width="40"  src="https://www.alastyr.com/blog/wp-content/uploads/2020/10/BTK-akademi-1024x576-1.png"  align="left" >][git]
 Versiyon Controls: Git and Github
 <br/><br/>                                                                                                                                     
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][html]
+[<img  width="40"  src="https://www.alastyr.com/blog/wp-content/uploads/2020/10/BTK-akademi-1024x576-1.png"  align="left" >][html]
 WEB Development with HTML5
 <br/><br/>                                                                                                                                      
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][css]
+[<img  width="40"  src="https://www.alastyr.com/blog/wp-content/uploads/2020/10/BTK-akademi-1024x576-1.png"  align="left" >][css]
 CSS Basics
 <br/><br/>                                                                                                                                       
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][api]
+[<img  width="40"  src="https://www.alastyr.com/blog/wp-content/uploads/2020/10/BTK-akademi-1024x576-1.png"  align="left" >][api]
 API and API Testing
 <br/><br/>                                                                                                                                     
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][sql]
+[<img  width="40"  src="https://www.alastyr.com/blog/wp-content/uploads/2020/10/BTK-akademi-1024x576-1.png"  align="left" >][sql]
 Learning SQL by Applications
 <br/><br/>                                                                                                                                    
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Jenkins]
+[<img  width="40"  src="https://www.alastyr.com/blog/wp-content/uploads/2020/10/BTK-akademi-1024x576-1.png"  align="left" >][Jenkins]
 DevOps Solutions (Jenkins)
 <br/><br/>                                                                                                                                    
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][Java]
+[<img  width="40"  src="https://www.alastyr.com/blog/wp-content/uploads/2020/10/BTK-akademi-1024x576-1.png"  align="left" >][Java]
 Introduction to Programming with Java
 <br/><br/>                                                                                                                                      
-[<img  width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][ileriJava]
+[<img  width="40" src="https://www.alastyr.com/blog/wp-content/uploads/2020/10/BTK-akademi-1024x576-1.png"  align="left" >][ileriJava]
 Advanced Java
 <br/><br/>                                                                                                                                   
 [<img  width="40"  src="https://pbs.twimg.com/profile_images/1133185636096040960/c9o6UlSh_400x400.png"  align="left" >][Selenium]
@@ -130,8 +130,6 @@ Java Programming
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=clgnmmr&show_icons=true&count_private=true)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=clgnmmr&layout=compact)
-
-![Profile views](https://gpvc.arturio.dev/clgnmmr)
 
 ### ✍️Random Dev Quote
 
