@@ -15,19 +15,15 @@
 ## 🌐Socials
 
 [<img  width="30"  src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align="left" >][linkedin]
-[<img  width="30" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg"  align="left" />][stackoverflow]
+[<img  width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"  align="left" />][stackoverflow]
 [<img  width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpNPu5Y3h8WMB3i5gt6BM0pjQjkCniuvVUHL6Tg2OS_ZnxY_So0c5oTBcgrjf9B59krOk&usqp=CAU"  align="left" />][codersclub]
 [<img  width="30" src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png"  align="left" />][patika]
 [<img  width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbKJ-RLNVI9sCwf6Nlp1WpsnpNcHC6vCiCNg&usqp=CAU"  align="left" />][hackerrank]
-[<img  width="30" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"  align="left" />][instagram]
-[<img  width="30" src="https://unpkg.com/simple-icons@v7/icons/facebook.svg"  align="left" />][facebook]
 
 [patika]: https://app.patika.dev/clgnmmr
 [linkedin]: https://www.linkedin.com/in/kadirtepecik/
 [codersclub]: https://codersclub.co/dev/clgnmmr
 [hackerrank]: https://www.hackerrank.com/kadir_tepecik191
-[instagram]: https://www.instagram.com/clgnmmr/
-[facebook]: https://www.facebook.com/kadir.tepecik
 [stackoverflow]: https://stackoverflow.com/users/18456843/kadir-tepecik
 <br/>
 <br/>
