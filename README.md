@@ -69,7 +69,7 @@
 ## 📜Certificates
 
                                                                                                                                      
-[<img  width="40"  src="https://www.istqb.org/static/istqb-logo-1b043e800a580724ad223567f9ea57c0.png"  align="left" >][ISTQB]
+[<img  width="40"  src="https://www.it-training.pro/wp-content/uploads/2020/02/ISTQB.png"  align="left" >][ISTQB]
 ISTQB CTFL
 <br/><br/>    
 [<img  width="40"  src="https://www.alastyr.com/blog/wp-content/uploads/2020/10/BTK-akademi-1024x576-1.png"  align="left" >][Yazılım]
