@@ -58,9 +58,9 @@
 <a href="https://www.soapui.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SmartBear/soapui/next/SoapUI-oss-logo.png" alt="SoapUI" width="100" height="50"/> </a>&nbsp;&nbsp;
 <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman" width="80" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySql" width="80" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://www.jira.com" target="_blank" rel="noreferrer"> <img src="https://yardimmasasi.atilim.edu.tr/images/atlassian-jira-logo-large.png" alt="Jira" width="80" height="40"/> </a>&nbsp;&nbsp;
+<a href="https://www.jira.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/512/147/png-transparent-jira-atlassian-computer-software-confluence-software-development-jira-blue-text-trademark-thumbnail.png" alt="Jira" width="80" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://www.jmeter.com" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/asf-logo.svg" alt="Jmeter" width="80" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://media.bitdegree.org/storage/media/images/2018/11/jenkins-interview-questions-logo.png" alt="Jmeter" width="50" height="50"/> </a>&nbsp;&nbsp;
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/151/360/png-transparent-jenkins-continuous-integration-computer-servers-software-deployment-software-build-others-plugin-dublin-human-behavior.png" alt="Jmeter" width="50" height="50"/> </a>&nbsp;&nbsp;
 
 </p>
 </br>
