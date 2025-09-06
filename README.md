@@ -3,11 +3,13 @@
 
 ### Hello 👋, my name is **Kadir** 
 
-- 👀 I'm improving myself about _Automation Engineer_
-- 🔭 I am currently working on Automation Engineer projects to improve my skills.
-- 🌱 I learned Selenium and I am improving myself in playwright tool
-- 👯 I want to collaborate on automation test project
-- 📫 How to reach me: http://kadirtepecik.epizy.com/index.html
+- 👀 Focused on advancing my career as an Automation Engineer
+- 🔭 Continuously working on projects to improve my knowledge and skills
+- 🌱 Learning and applying Selenium in real projects
+- 👯 Open to collaborating on automation testing projects
+- 💡 Motivated, hardworking, and always eager to learn and grow
+- 📫 Reach me at:  http://kadirtepecik.epizy.com/
+
 
   
 
