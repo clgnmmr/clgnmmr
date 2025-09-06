@@ -52,7 +52,7 @@
 
 <p align="left >
 
-<a href="https://www.vscode.com" target="_blank" rel="noreferrer"> <img src="https://media.githubusercontent.com/media/microsoft/vscode-docs/main/images/logo-stable.png" alt="VScode" width="50" height="50"/> </a>&nbsp;&nbsp;
+<a href="https://www.vscode.com" target="_blank" rel="noreferrer"> <img src="https://media.githubusercontent.com/media/microsoft/vscode-docs/main/images/logo-stable.png" alt="VScode" width="35" height="35"/> </a>&nbsp;&nbsp;
 <a href="https://www.intelj.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQak-N8W03mK25slV1lwM80i0y1obRPPJOaLA&usqp=CAU" alt="intelj" width="80" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://www.Pycharm.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxtnYwevCNyCBbtiRAsOZghsi3nmzzCG1HoQ&usqp=CAU" alt="Pycharm" width="80" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://www.soapui.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SmartBear/soapui/next/SoapUI-oss-logo.png" alt="SoapUI" width="100" height="50"/> </a>&nbsp;&nbsp;
